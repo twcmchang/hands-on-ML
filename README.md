@@ -23,7 +23,7 @@ $ conda install numpy scipy matplotlib scikit-learn ipython-notebook
 ### git clone
 Once git is installed, you can clone the material in this tutorial by using the git address shown above
 
-```git clone https://github.com/tw-cmchang/hands_on_ML.git```
+```git clone https://github.com/tw-cmchang/hands-on-ML.git```
 
 ### download from [link](https://goo.gl/NMzhuv)
 
