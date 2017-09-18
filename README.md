@@ -6,7 +6,7 @@ This tutorial requires the following packages:
 
 2. Install packages via pip
 ```
-$ pip install numpy scipy matplotlib scikit-learn ipython-notebook
+$ pip install numpy scipy matplotlib scikit-learn jupyter
 ```
 
 Alternative: use conda and conda install
@@ -15,7 +15,7 @@ The easiest way to get these is to use the [conda](https://store.continuum.io/) 
 
 Once this is installed, the following command will install all required packages in your Python environment:
 ```
-$ conda install numpy scipy matplotlib scikit-learn ipython-notebook
+$ conda install numpy scipy matplotlib scikit-learn jupyter
 ```
 
 ## Downloading the Tutorial Materials
